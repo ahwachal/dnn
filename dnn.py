@@ -119,7 +119,7 @@ for image_path in images:
             #if label.lower() in classes[idx]:
 	    if idx == index_final_result:
                 count_founded += 1
-                print("Accurate")
+               # print("Accurate")
                # print(classes[idx])
                # print(count_overal, ": [INFO] {}. label: {}, probability: {:.5}".format(1,
                        # classes[idx], preds[0][idx]))
