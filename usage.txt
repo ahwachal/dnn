@@ -1,0 +1,1 @@
+python3 dnn/dnn.py --prototxt dnn/squeezenet_v1.0.prototxt --model dnn/squeezenet_v1.0.caffemodel --labels dnn/synset_words.txt --imagedir dnn/Pics/ --label_Acc dnn/synset_words_imgnet.txt --Acc_Validation dnn/val.txt
